@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "src/binary/.pytest_cache": true,
+    "src/tests/.pytest_cache": true,
+    "src/tests/__pycache__": true,
+    "app/tests/.pytest_cache": true,
+    "app/tests/__pycache__": true
+  },
+  "python.pythonPath": "/usr/local/bin/python3"
+}
